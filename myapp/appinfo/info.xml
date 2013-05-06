@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+	<id>myapp</id>
+	<name>My App</name>
+	<description>App Template which uses the app framework</description>
+	<version>1.0</version>
+	<licence>AGPL</licence>
+	<author>Morgan Vigil</author>
+        <shipped>true</shipped>
+	<require>4</require>
+</info>
